@@ -12,7 +12,7 @@
     <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton-Almeida&1layout=compact&1langs_count=16&theme=dark">
        
     <div>
-
+ 
   <img align="center" alt="Wind-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wind-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wind-HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,5 +21,5 @@
   target="_blank"></a>
   <a href="https://twitter.com/__cleitonow__" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style-for-the-badge&logo=twitter&logoColor=white"
   targe="_blank"></a>
-  
+
   ![Snake animation](https://github.com/Cleiton-Almeida/Cleiton-Almeida/blob/output/github-contribution-grid-snake.svg)
