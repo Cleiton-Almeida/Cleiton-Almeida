@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou desempregado
 - 🌱 Estou estudando JavaScript
-- 👯 E-mail para contato: cleiton.almeida13@etec.sp.gov.br ou cleiton.junior16@outlook.com
+- 👉 E-mail para contato: cleiton.almeida13@etec.sp.gov.br ou cleiton.junior16@outlook.com
 - 🤔 Posso trabalhar como front-end e back-end (com preferencia em back-end)
 - 😄 Pronomes: Ele/Dele
 
