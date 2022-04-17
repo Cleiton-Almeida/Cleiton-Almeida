@@ -28,4 +28,4 @@
   <img align="center" alt="Wind-HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wind-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-plain.svg">
     
-    ![Snake animation](https://github.com/Cleiton-Almeida/Cleiton-Almeida/blob/output/github-contributions-grid-snake.svg)
+ 
