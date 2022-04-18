@@ -1,23 +1,23 @@
 ### Olá! Meu nome é Cleiton mas pode me chamar de 𝑊𝑖𝑛𝑑 💨💨
 
-- 🔭 Atualmente estou desempregado
-- 🌱 Estou estudando JavaScript
+- 🔎 Atualmente estou desempregado
+- 📒 Estou estudando JavaScript
+- 📍  Barra-Bonita/SP
 - 👉 E-mail para contato: cleiton.almeida13@etec.sp.gov.br ou cleiton.junior16@outlook.com
 - 🤔 Posso trabalhar como front-end e back-end (com preferencia em back-end)
-- 😄 Pronomes: Ele/Dele
 
     <div>
     
     <a href="https://beacons.ai/Cleiton-Almeida">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=Cleiton-Almeida&show_icons=true&theme=blue-green&inclube_all_commits=true&count_private=true">
-    <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton-Almeida&1layout=compact&1langs_count=16&theme=blue-green">
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api?username=Cleiton-Almeida&show_icons=true&theme=blue-green&inclube_all_commits=true&count_private=true">
+    <img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton-Almeida&1layout=compact&1langs_count=16&theme=blue-green">
        
     <div>
  
-  <img align="center" alt="Wind-JS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wind-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wind-HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wind-VSC1" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Wind-JS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wind-CSS" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wind-HTML5" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wind-VSC1" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
         
    ##
        
